@@ -9,3 +9,6 @@ Step3 : Inside AZ Key Vault go to Access Policy and create a access policy for t
 <p>
 
 Then go to Visual Code and execute the node applications. 
+
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/115624087/211196800-14b9838b-0f49-47e8-9bfd-8064b836bc04.png">
+
