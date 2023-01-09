@@ -1,7 +1,7 @@
 # Setting and Retrieving Private Keys for Web3 Operations (custodial wallet)
 #### (The added code works with Azure key vault)
 <p>
-Step1 : Got to AZ AD and register an App (note client id)
+Step1 : Go to AZ AD and register an App (note client id)
 <p>
 Step2 : Inside the App, go to Certificates and Secrets and set up a client secret (note the secret IT WILL BE VISIBLE ONLY ONCE)
 <p>
